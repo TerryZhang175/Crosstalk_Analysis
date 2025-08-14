@@ -1,7 +1,3 @@
-Here’s a consolidated **README** for your project based on all the scripts you uploaded:
-
-------
-
 # **PTM Crosstalk Analysis Toolkit**
 
 ## **Overview**
@@ -151,5 +147,6 @@ pip install pandas numpy biopython requests
 If using this toolkit for publication, please cite the relevant **AlphaFold**, **AlphaFill**, and **PTM dataset** sources, along with this analysis pipeline.
 
 ------
+
 
 Do you want me to also create a **flowchart figure** showing how the different scripts connect in your analysis workflow? That would make the README even clearer.
